@@ -1,0 +1,68 @@
+{
+  "match_id": "DEMO_Comtal2_LaSelveRullac1",
+  "teams": {
+    "home": "Comtal 2",
+    "away": "La Selve Rullac 1"
+  },
+  "score": {
+    "home": 1,
+    "away": 0
+  },
+  "shots": {
+    "home": 27,
+    "away": 20
+  },
+  "shots_on": {
+    "home": 15,
+    "away": 4
+  },
+  "possession": {
+    "home_pct": 49.1,
+    "away_pct": 50.9
+  },
+  "passes": {
+    "home": 481,
+    "away": 562
+  },
+  "fouls": {
+    "home": 13,
+    "away": 14
+  },
+  "corners": {
+    "home": 8,
+    "away": 2
+  },
+  "xg_estimate": {
+    "home": 4.3,
+    "away": 1.6
+  },
+  "top_players": [
+    {
+      "name": "Lina AYRINHAC",
+      "team": "Comtal 2",
+      "minutes": 90,
+      "distance_km": 9.1,
+      "shots": 4,
+      "goals": 1,
+      "assists": 0
+    },
+    {
+      "name": "Petronille MOURGUES",
+      "team": "Comtal 2",
+      "minutes": 75,
+      "distance_km": 10.6,
+      "shots": 4,
+      "goals": 0,
+      "assists": 1
+    },
+    {
+      "name": "Lena JEANSOU",
+      "team": "Comtal 2",
+      "minutes": 80,
+      "distance_km": 8.7,
+      "shots": 4,
+      "goals": 0,
+      "assists": 0
+    }
+  ]
+}
